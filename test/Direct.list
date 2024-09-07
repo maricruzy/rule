@@ -24,6 +24,24 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
+# pt
+DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,nicept.net
+DOMAIN-KEYWORD,nicept
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-KEYWORD,t.audiences
+DOMAIN-SUFFIX,hdarea.club
+DOMAIN-KEYWORD,tracker.hdarea
+DOMAIN-KEYWORD,tracker
+DOMAIN-SUFFIX,52pt.site
+DOMAIN-KEYWORD,52pt.site
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,flycrow.pro
+DOMAIN-SUFFIX,agrosino.net
+DOMAIN-SUFFIX,mantou.biz
+DOMAIN-KEYWORD,tra1
+DOMAIN-SUFFIX,et8.org
 
 # 360
 DOMAIN-SUFFIX,360.com
