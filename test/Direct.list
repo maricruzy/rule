@@ -25,24 +25,30 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 # pt
+DOMAIN-KEYWORD,tracker
+DOMAIN-KEYWORD,pt
+DOMAIN-KEYWORD,nicept
+DOMAIN-KEYWORD,t.audiences
+DOMAIN-KEYWORD,qingwa
+DOMAIN-KEYWORD,52pt.site
+DOMAIN-KEYWORD,tra1
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,nicept.net
-DOMAIN-KEYWORD,nicept
 DOMAIN-SUFFIX,audiences.me
-DOMAIN-KEYWORD,t.audiences
 DOMAIN-SUFFIX,hdarea.club
-DOMAIN-KEYWORD,tracker.hdarea
-DOMAIN-KEYWORD,tracker
-DOMAIN-SUFFIX,52pt.site
-DOMAIN-KEYWORD,52pt.site
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,flycrow.pro
 DOMAIN-SUFFIX,agrosino.net
 DOMAIN-SUFFIX,mantou.biz
-DOMAIN-KEYWORD,tra1
 DOMAIN-SUFFIX,et8.org
-
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,qingwapt.com
+DOMAIN-SUFFIX,qingwa.pro
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,soulvoice.club
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,lemonhd.club
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
