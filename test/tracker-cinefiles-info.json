@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "rules": [
+    {
+       "domain_suffix": [
+        "tracker.cinefiles.info",
+        "audiences.me",
+        "m-team.cc",
+        "m-team.io",
+        "open.cd",
+        "qingwa.pro",
+        "manfuz.co",
+        "halomt.com",
+        "holysalt.org",
+        "52pt.site",
+        "hdarea.club",
+        "et8.org",
+        "qingwapt.com",
+         "totheglory.im",
+        "soulvoice.club",
+        "keepfrds.com",
+        "lemonhd.club",
+        "pandapt.net",
+        "btschool.club",
+         "piggo.me"
+       ],
+      "domain_keyword": [
+        "announce",
+        "pt",
+        "tracker",
+        "chdbits",
+        "m-team",
+        "torrent"
+      ],
+      "domain": [
+        "tracker.cinefiles.info",
+        "tra1.m-team.io",
+        "tra1.m-team.cc",
+        "tra99.manfuz.co"
+       ]          
+    }
+  ]
+}
